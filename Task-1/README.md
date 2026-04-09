@@ -43,7 +43,7 @@ Steps Performed:
 
         git log 
         git log --oneline
-        h=git log --oneline --graph
+        git log --oneline --graph
 
 6. Push repoditory to GitHub
 
