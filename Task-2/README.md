@@ -18,3 +18,4 @@ Objective:
         git add .gitignore main.txt
         git commit -m "Added .gitignore and main.txt"
         git push
+        
